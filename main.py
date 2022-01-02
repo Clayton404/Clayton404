@@ -14,15 +14,15 @@ class Jogo(object):
         
         for a in range(1,3):
             self.position.append("a"+str(a))
-        self.a.append[self.position]
+   
         self.position = 0
         for b in range(1,3):
             self.position.append("b"+str(b))
-        self.a.append[self.position]
+     
         self.position = 0
         for c in range(1,3):
             self.position.append("c" + str(c))
-        self.a.append[self.position]
+    
      #   print(self.a)
         
         self.a = " "
